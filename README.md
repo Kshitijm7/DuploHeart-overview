@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./public/lego-heart.png" alt="Duplo Heart Logo" width="180" height="180">
+  <img src="./duplo-heart.png" alt="Duplo Heart Logo" width="180" height="180">
   <h1>Duplo Heart</h1>
   <p><strong>Transform your browser history into a constructive narrative</strong></p>
   
